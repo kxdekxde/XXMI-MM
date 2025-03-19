@@ -9,13 +9,15 @@ The launcher asks the user for the path to the mods folder the first time the mo
 I show how to set the mod manager for Honkai: Star Rail but you can download and use the other ones for Genshin Impact/Zenless Zone Zero/Wuthering Waves as well, and you can use them separately.
 After to activate/deactivate the mods you need, you can close the mod manager and the launcher if you want.
 
+### <p align="center">[Download here](https://gamebanana.com/dl/1402998)</p>
+
 
 ## Installation
 
 1. Download the [Launcher](https://gamebanana.com/dl/1402998) in some empty folder or go to your XXMI Launcher folder, create a new folder "XXMI Mods Manager" and move the Launcher there.
 2. Run the launcher and click on the waifu image associated to the game/mod manager you want to download. The download will start.
 3. After the download finishes the mod manager will ask you for the mods folder path the first time the manager is launched, so you need to go to your mods folder location and to copy the path from the search bar.
-4. Paste the path on the mod manager window and click OK, the mod manager will show after that with all of your mods listed.
+4. Paste the path on the mod manager window and click OK, the mod manager will launch after that with all of your mods listed.
 
 ## Supported Model Importers Mods Folders
 
