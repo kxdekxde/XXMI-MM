@@ -9,7 +9,7 @@ The launcher asks the user for the path to the mods folder the first time the mo
 I show how to set the mod manager for Honkai: Star Rail but you can download and use the other ones for Genshin Impact/Zenless Zone Zero/Wuthering Waves as well, and you can use them separately.
 After to activate/deactivate the mods you need, you can close the mod manager and the launcher if you want.
 
-### <p align="center">[Download here](https://gamebanana.com/dl/1402998)</p>
+### <p align="center">[Download here](https://www.mediafire.com/folder/h06d5xty8r9e8/XXMI_Mods_Manager)</p>
 
 
 ## Installation
