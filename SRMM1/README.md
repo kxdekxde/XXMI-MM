@@ -22,7 +22,7 @@ After to activate/deactivate the mods you need, you can close the mod manager an
 1. Run *SRMM1.pyw* with double-click, the first time you will need to set the path to your SRMI/XXMI mods folder.
 2. Go to your SRMI/XXMI mods folder and copy the path from your search bar.
 3. Paste the path on the manager window and click OK.
-4. The mod manager will be launched showing a list with your mods, and the script will create two new .json files in SRMM1 folder to save the user preferences.
+4. The mod manager will be launched showing a list with your mods, and the script will create two new JSON files `mod_preferences.json` and `mods_folder_path.json` in SRMM1 folder to save the user preferences.
 
 
 ## How to package it with PyInstaller (Executable version)
