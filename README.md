@@ -2,6 +2,8 @@
 
 ![XXMI Mods Manager](https://images.gamebanana.com/img/ss/tools/67d9d20a02d96.jpg)
 
+![XXMI Mods Manager](https://images.gamebanana.com/img/ss/tools/67d9d2096d73b.jpg)
+
 
 A simple tool to manage [XXMI](https://github.com/SpectrumQT/XXMI-Launcher) mods folders.
 
