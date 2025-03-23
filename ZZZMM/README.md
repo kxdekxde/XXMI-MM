@@ -12,7 +12,7 @@ After to activate/deactivate the mods you need, you can close the mod manager an
 
 ## Requirements before to use this tool
 
-   - Install [Python](https://www.python.org/downloads/)
+   - Install [Python](https://www.python.org/downloads/) (don't forget to select mark 'pip' to be installed as well).
    - Install PyQt6 opening a CMD window and typing `pip install PyQt6`
    - Install PyInstaller with `pip install pyinstaller`
 
@@ -29,5 +29,7 @@ After to activate/deactivate the mods you need, you can close the mod manager an
 
 Open a CMD window in the folder location and input the next command:
 
-`pyinstaller --onefile --windowed --icon="ZZZMM.ico" --add-data "mod_icon.png;." --add-data "mods_folder_path.json;." --add-data "mod_preferences.json;." ZZZMM.pyw`
+```
+pyinstaller --onefile --windowed --icon="ZZZMM.ico" --add-data "mod_icon.png;." --add-data "mods_folder_path.json;." --add-data "mod_preferences.json;." ZZZMM.pyw
+```
 
