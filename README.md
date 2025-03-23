@@ -38,7 +38,7 @@ Open a CMD window in the folder location and input the next command:
 ```
 pyinstaller --onefile --windowed --icon="app_icon.ico" --add-data "app_icon.png;." --add-data "icon1.png;." --add-data "icon2.png;." --add-data "icon3.png;." --add-data "icon4.png;." launcher_online_downloads.pyw
 ```
-### NOTE: the command above is for the script launcher_online_downloads.pyw
+### NOTE: the command above is for the script `launcher_online_downloads.pyw`
 
 
 ## Supported Model Importers Mods Folders
