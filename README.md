@@ -35,7 +35,9 @@ After to activate/deactivate the mods you need, you can close the mod manager an
 
 Open a CMD window in the folder location and input the next command:
 
-`pyinstaller --onefile --windowed --icon="app_icon.ico" --add-data "app_icon.png;." --add-data "icon1.png;." --add-data "icon2.png;." --add-data "icon3.png;." --add-data "icon4.png;." launcher.pyw`
+```
+pyinstaller --onefile --windowed --icon="app_icon.ico" --add-data "app_icon.png;." --add-data "icon1.png;." --add-data "icon2.png;." --add-data "icon3.png;." --add-data "icon4.png;." launcher.pyw
+```
 
 
 ## Supported Model Importers Mods Folders
