@@ -31,13 +31,14 @@ After to activate/deactivate the mods you need, you can close the mod manager an
 4. Paste the path on the mod manager window and click OK, the mod manager will launch after that with all of your mods listed.
 
 
-## How to package it with PyInstaller (Executable version for launcher_online_downloads.pyw)
+## How to package it with PyInstaller (Executable version)
 
 Open a CMD window in the folder location and input the next command:
 
 ```
 pyinstaller --onefile --windowed --icon="app_icon.ico" --add-data "app_icon.png;." --add-data "icon1.png;." --add-data "icon2.png;." --add-data "icon3.png;." --add-data "icon4.png;." launcher_online_downloads.pyw
 ```
+### NOTE: the command above is for the script launcher_online_downloads.pyw
 
 
 ## Supported Model Importers Mods Folders
