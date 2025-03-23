@@ -43,7 +43,7 @@ pyinstaller --onefile --windowed --icon="app_icon.ico" --add-data "app_icon.png;
 
 ## Supported Model Importers Mods Folders
 
-  - [GIMI](https://github.com/SilentNightSound/GI-Model-Importer)
-  - [SRMI](https://github.com/SilentNightSound/SR-Model-Importer)
-  - [ZZMI](https://github.com/leotorrez/ZZ-Model-Importer)
-  - [WWMI](https://github.com/SpectrumQT/WWMI)
+  - [GI-Model-Importer](https://github.com/SilentNightSound/GI-Model-Importer)
+  - [SR-Model-Importer](https://github.com/SilentNightSound/SR-Model-Importer)
+  - [ZZ-Model-Importer](https://github.com/leotorrez/ZZ-Model-Importer)
+  - [WWMI-Package](https://github.com/SpectrumQT/WWMI)
