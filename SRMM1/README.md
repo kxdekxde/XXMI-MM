@@ -18,8 +18,14 @@ After to activate/deactivate the mods you need, you can close the mod manager an
 ## Requirements before to use this tool
 
    - Install [Python](https://www.python.org/downloads/) (don't forget to mark 'pip' to be installed as well).
-   - Install PyQt6 opening a CMD window and typing `pip install PyQt6`
-   - Install PyInstaller with `pip install pyinstaller`
+   - Install PyQt6 opening a CMD window and typing 
+   ```
+   pip install PyQt6
+   ```
+   - Install PyInstaller
+   ```
+   pip install pyinstaller
+   ```
 
 
 ## Script Usage
