@@ -44,7 +44,7 @@ Open a CMD window in the folder location and input the next command:
 ```
 python setup.py build
 ```
-### NOTE: The command above is for the version `XXMIMM_forbuild.pyw` that is for the executable.
+### NOTE: The command above is for the version _`XXMIMM_forbuild.pyw`_ that is for the executable.
 
 
 ## Supported Model Importers Mods Folders
