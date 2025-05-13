@@ -16,19 +16,19 @@ I show how to set the mod manager for Honkai: Star Rail but the process is the s
 After to activate/deactivate the mods you need, you can close the mod manager if you want.
 
 
-## Requirements to run the scripts
+## Requirements to run the scripts:
 
    - Double click on _install_requirements.bat_ to install the required dependencies and Python 3.13.
 
 
-## Script version usage
+## Script version usage:
 
 1. Run *XXMIMM.pyw* with double-click.
 2. Click on the button `Browse...`, navigate to your "mods" folder and select it.
 3. Click on the waifu image associated to the game to see the respective mods list from that mods folder.
 4. If the mods contain a *preview.jpg* image in the folder the Mods Manager will be able to open it with the button `Preview`. 
 
-## Executable version usage
+## Executable version usage:
 
 1. Download the executable from [here](https://www.mediafire.com/file/jyyj10cyxcwiig3/XXMI_Mods_Manager.7z/file) in some empty folder or go to your XXMI Launcher folder, create a new folder "XXMI Mods Manager", move the downloaded file there and extract the content.
 2. Run the executable _XXMI_Mods_Manager.exe_ with double-click. 
@@ -37,7 +37,7 @@ After to activate/deactivate the mods you need, you can close the mod manager if
 5. If the mods contain a *preview.jpg* image in the folder the Mods Manager will be able to open it with the button `Preview`. 
 
 
-## How to build it with cxFreeze (Executable version)
+## How to build it with cxFreeze (Executable version):
 
 Open a CMD window in the folder location and input the next command:
 
@@ -47,7 +47,7 @@ python setup.py build
 ### NOTE: The command above is for the version _`XXMIMM_forbuild.pyw`_ that is for the executable.
 
 
-## Supported Model Importers Mods Folders
+## Supported Model Importers Mods Folders:
 
   - [GI-Model-Importer](https://github.com/SilentNightSound/GI-Model-Importer)
   - [SR-Model-Importer](https://github.com/SilentNightSound/SR-Model-Importer)
